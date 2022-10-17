@@ -1,3 +1,3 @@
 # TodoFlask
 
-![Alt text](/pizza_constructor_index.png?raw=true "Pizza Constructor")
+![Alt text](/flask_todo_ss.png?raw=true "Pizza Constructor")
